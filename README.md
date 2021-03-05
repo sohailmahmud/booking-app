@@ -1,4 +1,4 @@
-# Flutter booking management dashboard
+# Flutter booking management app
 
 
 ### How to Create a Flutter Web project
@@ -21,7 +21,3 @@ Now when you create a project it'll be web enabled and you can run it in the bro
 Then
 ``flutter create xyz_project_name``
  <br />
-
-### Created & Maintained By
-
-[@SohailSami](https://github.com/sohailsami) , Twitter  : [@SohailSami](https://twitter.com/sohailsami)
